@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently working as a full stack developer 
-- 🤔 &nbsp; Exploring ☁️ technologies and automations to make boring stuffs automated.
-- 🎓 &nbsp; Has a Master in Computer Science
+- 🤓 &nbsp; Exploring ☁️  technologies and automations to make boring stuffs automated.
+- 🧠 &nbsp; Has a Master in Computer Science
 - 🏕️ &nbsp; I belive a good hike in nature can be the ultimate solution for stress. 
 
 <h3>🛠 Tech Stack</h3>
