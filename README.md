@@ -17,9 +17,11 @@
 
 <br>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<details>
+  <summary>🤝🏻 Contact</summary>
 
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/liam-nguyen-36198bb3/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:liam.nguyen.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+  <p align="center">
+  &nbsp; <a href="https://www.linkedin.com/in/liam-nguyen-36198bb3/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  &nbsp; <a href="mailto:liam.nguyen.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  </p>
+</details>
