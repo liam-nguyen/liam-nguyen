@@ -3,16 +3,17 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; Currently working as a full stack developer 
-- 🤓 &nbsp; Exploring ☁️  technologies and automations to make boring stuffs automated.
-- 🧠 &nbsp; Has a Master in Computer Science
-- 🏕️ &nbsp; I belive a good hike in nature can be the ultimate solution for stress. 
+- 🤓 &nbsp; Exploring ☁️   technologies and automations to make life less boring.
+- 🧠 &nbsp; Always looking forward to learn new tech.
+- 🏕️ &nbsp; I belive a good hike can be the ultimate solution for stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Typescript | Javascript | Python | Java | HTML | CSS
+- 💻 &nbsp; Typescript | Javascript | Python | Java | HTML | CSS | SCSS
 - 🌐 &nbsp; Next JS | Node JS | React | Redux
 - 🛢 &nbsp; PostgreQL | GraphQL | MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | Git | Bash
+- ☁️ &nbsp; Docker | Elastic | Ecommerce
 
 <br>
 
